@@ -1,0 +1,16 @@
+.container-fluid{
+    margin-left: 400px;
+    
+      
+}
+
+.input-group{
+   height: 40px;
+   font-size: 14px;
+   line-height: 40px;
+}
+
+.btn-custom{
+    background-color: black;
+    color: white;
+}
